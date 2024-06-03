@@ -8,3 +8,5 @@ The code files pertain to running the Ingenuity (NASA Helicopter) example in the
 There are four different versions of the `Ingenuity.py` file: no shield, Hard shield, Soft shield, and Hybrid Shield. The shields get activated whenever the Ingenuity is in range of the obstacle.
 
 The other two `.yaml` files provide the configuration for running the example with various options.
+
+## The final project report is `final-project-report-ai-safety-drone-flight.pdf` and the final presentation file is `ai-safety-drone-flight-presentation.pdf`.
